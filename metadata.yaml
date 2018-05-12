@@ -1,0 +1,33 @@
+_repo: The-Book-of-Cheese_40318
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fisk, W. W. (Walter Warner)
+    alias: Fisk, Walter Warner
+    birthdate: 1888
+    gutenberg_agent_id: '40556'
+    url: http://www.gutenberg.org/2009/agents/40556
+  - agent_name: Thom, Charles
+    alias: Thom, C. (Charles)
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '40555'
+    url: http://www.gutenberg.org/2009/agents/40555
+description: ''
+gutenberg_issued: '2012-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40318'
+  lccn: '18014223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cheese'
+- !lcc 'SF'
+title: The Book of Cheese
+url: http://www.gutenberg.org/ebooks/40318
